@@ -18,15 +18,16 @@ export default class extends Page {
               <span style={{fontWeight: 600}}>
                 <span className="mr-3">▲</span>
                 <br className="v-block d-sm-none"/>
-                Next.js
+                MyNextApp
               </span>
-              <br className="v-block d-lg-none"/> Starter Project
+              {/* <br className="v-block d-lg-none"/> 
+              My NextJS App */}
             </h1>
             <p className="lead mb-5">
-              A reference and template for React projects
+              Making a menu has never been easier
             </p>
             <p className="text-right">
-              <a href="https://github.com/iaincollins/nextjs-starter" className="btn btn-outline-light btn-lg"><span className="icon ion-logo-github mr-2"/> Download from GitHub</a>
+              <a href="https://github.com/reyvera/myNextApp.git" className="btn btn-outline-light btn-lg"><span className="icon ion-logo-github mr-2"/> Download from GitHub</a>
             </p>
             <style jsx>{`
               .display-2  {
